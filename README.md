@@ -72,8 +72,7 @@ Verifying programs version:
 
 **Execution**
     ~~~~
-    robot -d ./results .\amazon_testes.robot
-    
+    robot -d ./results .\amazon.robot
     ~~~~
 
 * Open the application
